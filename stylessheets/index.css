@@ -1,0 +1,57 @@
+body{
+	margin:0 auto;
+	font-family: "微软雅黑";
+	min-width: 980px;
+	background: #fff;
+	border:0px solid red;
+	width:80%;
+	background-size:cover;
+	background-image: url('../images/da/2.jpg');
+	
+}
+h1,h2,h3,h4,h5,h6,ul,li{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+.clear{
+	clear:both;
+}
+#sence{
+	width:550px;
+	height:550px;
+	background-color: #F5661A;
+	border:1px solid #252525;
+	margin:25px auto;
+	position:relative;
+	cursor:pointer;
+	position:relative;
+	/*background-size:cover;*/
+	background-image: url('../images/da/dalishi.jpg');
+	
+	box-shadow: 0 10px 40px rgba(16, 17, 17, 0.9);
+	box-shadow: 0 10px 40px rgba(16, 17, 17, 0.73) inset;
+
+}
+.block{
+	width:59px;
+	height:59px;
+	margin:1px 0px 0px 1px ;
+	float:left;
+	cursor:pointer;
+	position:absolute;
+}
+.shuliang{
+	height:50px;
+	width:150px;
+	background-color: rgba(234, 199, 164 , 0.6) ;
+	position:absolute;
+	right:200px;
+	bottom:-50px;
+	text-align: center ;
+	line-height: 50px;
+}
+#shumu{
+	width:30px;
+	height:20px;
+}
